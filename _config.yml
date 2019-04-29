@@ -1,7 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
+title:          Hahm's blog
+description:    "Hahm's blog"
 url:            "https://hahmyg.github.io"
 baseurl:
 
@@ -10,9 +9,8 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Younggyun Hahm
+  email:        hahmyg@gmail.com
 
 # Build settings
 markdown:       kramdown
