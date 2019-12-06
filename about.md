@@ -25,24 +25,24 @@ PhD in Web Science Technology, KAIST, Korea (2014 - ) \
 **Award of Minister of Culture and Tourism of Korea** at Korean Language Processing Competition in HCLT, October. 2012 \
 
 ## Research Experience
-- Korean FrameNet
+- **Korean FrameNet**
   - Webpage: http://framenet.kaist.ac.kr
   - Resource: https://github.com/machinereading/koreanframenet
-- Frame-semantic parser: https://github.com/machinereading/kaiser
-- Syntactic Parsing
+- **Frame-semantic parser**: https://github.com/machinereading/kaiser
+- **Syntactic Parsing**
   - AWARD, Award of Minister of Culture and Tourism of Korea. *Hahm et al., "NLP Hub", Korean Language Processing Competition, in Hangul and Korean +Language Processing Conference, 2012.* 
-- Named Entity Recognition
+- **Named Entity Recognition**
   - Master thesis. *Hahm, A Method for Constructing Wikipedia-scale Named Entity Corpus based on DBpedia Ontology, KAIST, 2014*
   - *Hahm et al., “Named Entity Corpus Construction using Wikipedia and DBpedia Ontology”, LREC, 2014.*
-- Semantic Role Labeling
+- **Semantic Role Labeling**
   - AWARD, second place, *Hahm et al., “Kane_team”, NAVER NLP CHALLENGE, 2018*
   - Korean SRL: [Bert-based Korean Semantic Role Labeler](https://github.com/machinereading/BERT_for_Korean_SRL)
-- Question Answering
+- **Question Answering**
   - *Hahm et al., “QAF: Frame Semantics-based Question Interpretation”, OKBQA Workshop at COLING, 2016*
   - AWARD, Best paper. *KorSciQA: A Dataset for Machine Comprehension of Korean Scientific Paper*
-- Chatbot (dialog system)
+- **Chatbot (dialog system)**
   - *Hahm et al., “Chatbot Who Wants to Learn the Knowledge: KB-Agent”, NLIWoD Workshop at ISWC, 2018*
-- NLP and Semantic Web
+- **NLP and Semantic Web**
   - *Hahm et al., “Korean NLP2RDF Resource”, ALR10 at COLING 2012*
   - *Hahm et al., “Toward Matching The Relation Instantiation From DBpedia Ontology To Wikipedia Text: Fusing FrameNet To Korean”, iSemantics, 2014*
   
