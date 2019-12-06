@@ -14,15 +14,15 @@ One of my contribution in the field is building Korean FrameNet resource and par
 Please feel free to contact me: `hahmyg@gmail.com`
 
 ## Education
-BS in Philosophy, Sungkyunkwan Univ., Korea (2004 - 2011)
-MS in Web Science Technology, KAIST, Korea (2012 - 2014)
-PhD in Web Science Technology, KAIST, Korea (2014 - )
+BS in Philosophy, Sungkyunkwan Univ., Korea (2004 - 2011) \
+MS in Web Science Technology, KAIST, Korea (2012 - 2014) \
+PhD in Web Science Technology, KAIST, Korea (2014 - ) \
 
 ## Awards
-**Second Place** at NAVER NLP CHALLENGE, December, 2018
-**Best paper** at HCLT (First author), 2014, 2016, 2018, and 2019
-**Bronze Prize** at Korean Language Processing Competition in HCLT, October. 2015
-**Award of Minister of Culture and Tourism of Korea** at Korean Language Processing Competition in HCLT, October. 2012
+**Second Place** at NAVER NLP CHALLENGE, December, 2018 \
+**Best paper** at HCLT (First author), 2014, 2016, 2018, and 2019 \
+**Bronze Prize** at Korean Language Processing Competition in HCLT, October. 2015 \
+**Award of Minister of Culture and Tourism of Korea** at Korean Language Processing Competition in HCLT, October. 2012 \
 
 ## Research Experience
 - Korean FrameNet
