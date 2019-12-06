@@ -14,7 +14,7 @@ One of my contribution in the field is building Korean FrameNet resource and par
 Please feel free to contact me: `hahmyg@gmail.com`
 
 ## Education
-BS in Philosophy, Sungkyunkwan Univ., Korea (2004 - 2011) 
+BS in Philosophy, Sungkyunkwan Univ., Korea (2004 - 2011)<br/> 
 MS in Web Science Technology, KAIST, Korea (2012 - 2014) \
 PhD in Web Science Technology, KAIST, Korea (2014 - )
 
