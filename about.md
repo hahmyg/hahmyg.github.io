@@ -16,13 +16,13 @@ Please feel free to contact me: `hahmyg@gmail.com`
 ## Education
 BS in Philosophy, Sungkyunkwan Univ., Korea (2004 - 2011) \
 MS in Web Science Technology, KAIST, Korea (2012 - 2014) \
-PhD in Web Science Technology, KAIST, Korea (2014 - ) \
+PhD in Web Science Technology, KAIST, Korea (2014 - )
 
 ## Awards
 **Second Place** at NAVER NLP CHALLENGE, December, 2018 \
 **Best paper** at HCLT (First author), 2014, 2016, 2018, and 2019 \
 **Bronze Prize** at Korean Language Processing Competition in HCLT, October. 2015 \
-**Award of Minister of Culture and Tourism of Korea** at Korean Language Processing Competition in HCLT, October. 2012 \
+**Award of Minister of Culture and Tourism of Korea** at Korean Language Processing Competition in HCLT, October. 2012
 
 ## Research Experience
 - **Korean FrameNet**
@@ -63,7 +63,7 @@ Jungyeul Park, Sejin Nam, Youngsik Kim, **Younggyun Hahm**, Dosam Hwang, Key-Sun
 **Younggyun Hahm**, Youngsik Kim, Yousung Won, Jongsung Woo, Jiwoo Seo, Jiseong Kim, Seongbae Park, Dosam Hwang, Key-Sun Choi, "Toward Matching The Relation Instantiation From DBpedia Ontology To Wikipedia Text: Fusing FrameNet To Korean", iSemantics, 2014. \
 **Younggyun Hahm**, Jungyeul Park, Kyungtae Lim, Youngsik Kim, Dosam Hwang, Key-Sun Choi, "Named Entity Corpus Construction using Wikipedia and DBpedia Ontology", In Proceedings of The 9th edition of the Language Resources and Evaluation Conference (LREC), 2014. \
 **YoungGyun Hahm**, KyungTae Lim, Yoon Yongun, Jungyeul Park, Key-Sun Choi, "Korean NLP2RDF Resources", Tenth Workshop on Asian Language Resources (ALR10) at COLING 2012, 2012. \
-Martin Rezk, Jungyeul Park, Yoon Youngun, KyungTae Lim, John Larsen, **Younggyun Hahm**, Key-Sun Choi, "Korean Linked Data on the Web: Text to RDF", Proceedings of JIST 2012: Joint International Semantic Technology Conference, Nara, Japan, 2012. \
+Martin Rezk, Jungyeul Park, Yoon Youngun, KyungTae Lim, John Larsen, **Younggyun Hahm**, Key-Sun Choi, "Korean Linked Data on the Web: Text to RDF", Proceedings of JIST 2012: Joint International Semantic Technology Conference, Nara, Japan, 2012.
 
 ## Publications (Domestic)
 (BEST PAPER) **YoungGyun Hahm**, Yongbin Jeong, Heeseok Jung, Hyekyung Hwang, Key-Sun Choi, "KorSciQA: 한국어 논문의 기계독해 데이터셋", HCLT, 2019. *(in Korean)* \
@@ -90,4 +90,4 @@ DongHyun Choi, Jungyeul Park, KyungTae Lim, **Younggyun Hahm**, Key-Sun Choi, "�
 **Younggyun Hahm**, KyungTae Lim, Jungyeul Park, Yoon Yongun, Key-Sun Choi, "Linked Data를 위한 세종 품사태그셋 온톨로지 구축", KCC 2012, 2012. *(in Korean)* \
 **Younggyun Hahm**, KyungTae Lim, Martin Rezk, Jungyeul Park, Yoon Yongun, Key-Sun Choi, "Linked Data를 위한 한국어 자연언어처리 플랫폼", HCLT 2012, 2012. *(in Korean)* \
 Jungyeul Park, **Younggyun Hahm**, KyungTae Lim, Key-Sun Choi, "품사규칙기반 한국어 용언-논항 구조 자동구축", KCC 2012 (Poster), 2012. *(in Korean)* \
-KyungTae Lim, **Younggyun Hahm**, Martin Rezk, Jungyeul Park, Yoon Yongun, Key-Sun Choi, "데이터 웹을 위한 한국어 DBpedia리소스 접근방법 연구", KCC 2012 (Poster), 2012. *(in Korean)* \
+KyungTae Lim, **Younggyun Hahm**, Martin Rezk, Jungyeul Park, Yoon Yongun, Key-Sun Choi, "데이터 웹을 위한 한국어 DBpedia리소스 접근방법 연구", KCC 2012 (Poster), 2012. *(in Korean)*
