@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-date:   2019-12-96 18:15:00 +0900
+date:   2019-12-06 18:15:00 +0900
 permalink: /about/
 ---
 
